@@ -1,1 +1,1 @@
-# DSA_Project
+This was a group project built by me and my group for the course Data Structures and Algorithm. We utilized AVL Trees to develop an efficient library management system, using the terminal as an interface.
